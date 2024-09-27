@@ -1,5 +1,4 @@
 #!/usr/bin/bash
 
 
-(pacman -S spectacle firefox zim neofetch discord thunar 
-adobe-source-han-sans-jp-fonts bittwarden  --noconfirm)
+pacman -S spectacle firefox zim neofetch discord thunar adobe-source-han-sans-jp-fonts bittwarden thunderbird obs-studio  --noconfirm
