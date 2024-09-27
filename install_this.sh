@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
 
-pacman -S spectacle firefox zim nemo chromium htop nvidia kitty neofetch discord thunar calligra flatpak adobe-source-han-sans-jp-fonts bittwarden thunderbird obs-studio  --noconfirm
+pacman -S spectacle firefox dolphin-emu zim nemo chromium htop nvidia kitty neofetch discord thunar calligra flatpak adobe-source-han-sans-jp-fonts bittwarden thunderbird obs-studio  --noconfirm
 
 
 git clone https://aur.archlinux.org/yay.git
