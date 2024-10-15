@@ -22,3 +22,4 @@ flatpak install flathub us.zoom.Zoom -y
 flatpak install flathub org.nickvision.tubeconverter -y
 flatpak install flathub info.febvre.Komikku -y
 flatpak install flathub com.georgefb.mangareader -y
+flatpak install flathub app.ytmdesktop.ytmdesktop -y
