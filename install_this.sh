@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
 
-pacman -S spectacle firefox dolphin-emu zim nemo chromium yazi powerline-fonts htop nvidia kitty neofetch discord thunar calligra flatpak adobe-source-han-sans-jp-fonts bittwarden steam  thunderbird obs-studio  --noconfirm
+pacman -S spectacle firefox dolphin-emu zim nemo chromium yazi powerline-fonts htop nvidia alacritty  neofetch discord thunar calligra flatpak adobe-source-han-sans-jp-fonts bittwarden steam  thunderbird obs-studio cosmic hyprland awesome rofi waybar     --noconfirm
 
 
 git clone https://aur.archlinux.org/yay.git
@@ -9,7 +9,7 @@ cd yay
 makepkg -si
 
 git clone --recursive https://github.com/andresgongora/synth-shell.git
-
+sh -c "$(curl -sS https://raw.githubusercontent.com/Vendicated/VencordInstaller/main/install.sh)"
 git clone https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes
 
 
